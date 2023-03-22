@@ -25,6 +25,13 @@ To use the model, simply run the predict.py script and provide an image file as 
 
 Object Classification CNN is a powerful technique for image recognition tasks, and this project demonstrates how to train a neural network to classify images of different objects. With further optimization and tuning, the model can be improved to achieve even higher accuracy.
 ## Screenshots
+![image](https://user-images.githubusercontent.com/98306116/226979379-9c21dc39-a3ed-40f8-bd0f-4fa081444200.png)
+
+![image](https://user-images.githubusercontent.com/98306116/226979270-303fb63b-c2e9-492a-886b-3c23366b2d2f.png)
+
+![image](https://user-images.githubusercontent.com/98306116/226979520-981bcdef-0cd3-401b-be88-f37e8317185f.png)
+
+
 
 
 
